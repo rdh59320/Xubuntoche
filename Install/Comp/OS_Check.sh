@@ -9,7 +9,7 @@ set -e  # Exit immediately if a command exits with a non-zero status.
 
 # Function for error handling
 handle_error() {
-    echo "Error occurred in script at line: $1"
+    echo "Erreur au cours de l'exécution du script en ligne: $1"
     exit 1
 }
 
