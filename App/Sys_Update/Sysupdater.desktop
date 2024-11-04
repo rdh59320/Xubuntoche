@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Mise à Jour
+GenericName=Mise à Jour Système
+Comment=Update your system packages including APT, Snap, and Flatpak
+Exec=xterm -e 'bash /opt/Xubuntoche/App/Sys_Update/Sysupdater.sh'
+Icon=/opt/Xubuntoche/App/Sys_Update/system-software-update.svg
+Terminal=false
+Categories=System;Settings;
+Keywords=Update;Upgrade;System;APT;Snap;Flatpak;
+StartupNotify=true
+Path=
