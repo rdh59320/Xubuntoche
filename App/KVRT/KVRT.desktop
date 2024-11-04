@@ -1,0 +1,17 @@
+[Desktop Entry]
+
+# Concepteur : Roman O'Cry (romain.dhaese@gmail.com)
+# Description : Kaspersky Virus Removal Tool unofficial app by RDH59320
+# Licence CREATIVE COMMONS CC BY-NC-SA 4.0
+# Version : 1.0
+
+Version=1.0
+Type=Application
+Terminal=false
+Name=Kaspersky AntiVirus
+Icon=/opt/Xubuntoche/App/KVRT/kvrt-logo.png
+Exec=/opt/Xubuntoche/App/KVRT/kvrt.run
+Categories=Applications;Utility;
+Comment=
+Path=
+StartupNotify=false
