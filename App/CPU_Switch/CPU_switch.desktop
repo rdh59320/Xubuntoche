@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=CPU Governor
+GenericName=CPU Performance Manager
+Comment=Switch between power-saving and performance CPU profiles
+Exec=xterm -e 'bash /opt/Xubuntoche/App/CPU_Switch/cpu-scal-gov.sh'
+Icon=/opt/Xubuntoche/App/CPU_Switch/xfsm-switch.svg
+Terminal=false
+Categories=System;Settings;HardwareSettings;
+Keywords=CPU;Governor;Performance;PowerSave;
+StartupNotify=true
+Path=
