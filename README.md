@@ -6,28 +6,28 @@
 - [Remerciements](#remerciements)
 - [La Pioche](#la-pioche)
 - [Instructions d'Installation](#instructions-d-installation)
-- [Applications Additionnelles](#additional-apps)
+- [Applications Additionnelles](#applications-additionnelles)
 - [Tutoriel](#tutoriel)
 - [Configuration Minimale](#configuration-minimale)
-- [Machines Testées avec Succès](#successfully-tested-devices)
+- [Machines Testées avec Succès](#machines-testées-avec-succès)
   
 ## Remerciements
 
 
-## la-pioche
+## La Pioche
 
 
-## instructions-d-installation
+## Instructions d'Installation
 
 
-## additional-apps
+## Applications Additionnelles
 
 
 ## Tutoriel
 
 
-## Configuration-minimale
+## Configuration Minimale
 
 
-## successfully-tested-devices
+## Machines Testées avec Succès
 
