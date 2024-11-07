@@ -7,27 +7,27 @@
 - [La Pioche](#la-pioche)
 - [Instructions d'Installation](#instructions-d-installation)
 - [Applications Additionnelles](#additional-apps)
-- [Tutoriel](#tutorial)
-- [Configuration Minimale](#system-requirements)
+- [Tutoriel](#tutoriel)
+- [Configuration Minimale](#configuration-minimale)
 - [Machines Testées avec Succès](#successfully-tested-devices)
   
 ## Remerciements
 
 
-## La Pioche
+## la-pioche
 
 
-## Instructions d'Installation
+## instructions-d-installation
 
 
-## Additional Apps
+## additional-apps
 
 
 ## Tutoriel
 
 
-## Configuration minimale
+## Configuration-minimale
 
 
-## Machines Testées avec Succès
+## successfully-tested-devices
 
