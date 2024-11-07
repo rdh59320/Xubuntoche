@@ -5,7 +5,7 @@
 ## Table des Matières
 - [Remerciements](#remerciements)
 - [La Pioche](#la-pioche)
-- [Instructions d'Installation](#instructions-d-installation)
+- [Instructions d'Installation](#instructions-d'installation)
 - [Applications Additionnelles](#applications-additionnelles)
 - [Tutoriel](#tutoriel)
 - [Configuration Minimale](#configuration-minimale)
