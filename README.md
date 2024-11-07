@@ -3,9 +3,9 @@
 **Xubuntoch** est un programme de finalisation pour Xubuntu destiné aux ordinateurs de l'association **La Pioche** à Haubourdin (France, 59320). 
 
 ## Table des Matières
-- [Remerciements](#acknowledgments)
-- [La Pioche](#lapioche)
-- [Instructions d'Installation](#package-install-instructions)
+- [Remerciements](#remerciements)
+- [La Pioche](#la-pioche)
+- [Instructions d'Installation](#instructions-d-installation)
 - [Applications Additionnelles](#additional-apps)
 - [Tutoriel](#tutorial)
 - [Configuration Minimale](#system-requirements)
